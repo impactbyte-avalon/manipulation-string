@@ -42,7 +42,7 @@ console.log(sentenceB)
 
 ```js
 // This is a comment
-/* 
+/*
  * Also a comment
  * with multiple lines
  */
